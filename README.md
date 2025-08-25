@@ -1,7 +1,8 @@
 # YimMenu under Proton
 This is a basic guide on how to run YimMenu under Proton for people who play Grand Theft Auto V on Linux and do not feel like dual booting to "have some fun." There are probably more optimal ways of accomplishing this; however, these methods works, and do not appear to introduce any stability problems.
 
-![361620884-bede1b9b-3026-4198-9fa8-da2807f44df4](https://gist.github.com/user-attachments/assets/34fa15b8-fafc-45a8-a905-8c1f512419f1)
+<img width="2559" height="1409" alt="361622826-34fa15b8-fafc-45a8-a905-8c1f512419f1" src="https://github.com/user-attachments/assets/a0f5eef7-1463-4d3f-8133-89580c1506b2" />
+
 
 > [!NOTE]
 > I am in no way involved with the development of YimMenu, or any other open source projects mentioned in this guide. I simply figured this may be useful information for other users I've seen inquiring about this topic.
