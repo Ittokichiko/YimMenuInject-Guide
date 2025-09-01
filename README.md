@@ -1,7 +1,7 @@
 # YimMenu under Proton
 
 > [!IMPORTANT]
-> GTA 5 Now Support BattlEye!!! If you wanted to bypass this, you need set all of Steam Versions, BattlEye Linux AntiCheat to Beta Version!!! and set to hidepid=1 and use flatpak version of Steam!!!
+> GTA 5 Now Supporting BattlEye!!! If you wanted to bypass this, you need set all of Steam Versions, BattlEye Linux AntiCheat to Beta Version!!! and set to hidepid=1 and use flatpak version of Steam!!!
 
 
 This is a basic guide on how to run YimMenu under Proton for people who play Grand Theft Auto V on Linux and do not feel like dual booting to "have some fun." There are probably more optimal ways of accomplishing this; however, these methods works, and do not appear to introduce any stability problems.
