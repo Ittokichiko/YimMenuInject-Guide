@@ -1,0 +1,1 @@
+protontricks-launch --appid <Insert appid(GTA 5)... appid is 271590... not original(enhanced) is 3240220> <Linux path to GTA V Proton prefix>/drive_c/windows/system32/cmd.exe /c "<Windows path to Injector.exe> --inject --process-name GTA5.exe <Windows path to YimMenu.dll>"
